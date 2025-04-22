@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 langchain-openai
 langchain
 python-dotenv
 langchain_community
 langchain_core
+=======
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+>>>>>>> 8302ec2 (Remove venv and add .gitignore)
 streamlit
